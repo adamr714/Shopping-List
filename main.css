@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+
 }
 
 body {
@@ -8,6 +9,8 @@ body {
 
 button, input[type="text"] {
   padding: 5px;
+  margin-right: 5px;
+
 }
 
 button:hover {
